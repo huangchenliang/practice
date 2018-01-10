@@ -1,9 +1,0 @@
-com\hchl\drools\config\ReloadDroolsRules.class
-com\hchl\drools\DroolsApplication.class
-com\hchl\drools\utils\KieUtils.class
-com\hchl\drools\model\fact\AddressCheckResult.class
-com\hchl\drools\model\Address.class
-com\hchl\drools\controller\TestController.class
-com\hchl\drools\model\Rule.class
-com\hchl\drools\config\DroolsAutoConfiguration$1.class
-com\hchl\drools\config\DroolsAutoConfiguration.class
